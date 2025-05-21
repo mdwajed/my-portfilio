@@ -5,12 +5,10 @@ import {
   BookOpen,
   Bot,
   Frame,
-  GalleryVerticalEnd,
   LayoutDashboard,
   Map,
   PieChart,
   Settings2,
-  SquareDashed,
   SquareTerminal,
 } from "lucide-react";
 
